@@ -121,6 +121,10 @@ body {
   font-weight: 500;
 }
 
+h2 {
+  text-align: center;
+}
+
 /* TRENDS CSS */
 #chart {
   margin-top: 15px;
@@ -142,10 +146,14 @@ body {
   align-items: center;
 }
 
-.trend-card-title {
+.trend-cards p {
   font-size: 14px;
   font-weight: 500;
   color: #9FA2B4;
+}
+
+.trend-cards h4 {
+  text-align: center;
 }
 
 /* TIX AND TASKS CSS */

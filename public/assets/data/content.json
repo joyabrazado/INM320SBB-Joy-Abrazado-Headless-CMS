@@ -1,0 +1,80 @@
+{
+    "card1Text": [
+        {
+            "c1T1": "Unresolved",
+            "c1T2": "Overdue",
+            "c1T3": "Open",
+            "c1T4": "Hold"
+        }
+    ],
+
+    "card1Value": [
+        {
+            "c1V1": 60,
+            "c1V2": 16,
+            "c1V3": 43,
+            "c1V4": 64
+        }
+    ],
+
+    "card2Text": [
+        {
+            "c2T1": "Resolved",
+            "c2T2": "Received",
+            "c2T3": "Average first response time",
+            "c2T4": "Average response time",
+            "c2T5": "Resolution within SLA"
+        }
+    ],
+
+    "card2Value": [
+        {
+            "c2V1": 449,
+            "c2V2": 426,
+            "c2V3": "33 m",
+            "c2V4": "3h 8m",
+            "c2V5": "94%"
+        }
+    ],
+
+    "siteName": "Joy's Site",
+    "contactEmail": "mbabrazado@myseneca.ca",
+    "phone": "416-123-1234",
+    "mainnav": [
+        {
+            "url": "/",
+            "text": "Home",
+            "linkId": "",
+            "linkClass": "",
+            "newTab": false
+        },
+        {
+            "url": "/about.html",
+            "text": "About",
+            "linkId": "",
+            "linkClass": "",
+            "newTab": false
+        },
+        {
+            "url": "/blog.html",
+            "text": "Blog",
+            "linkId": "",
+            "linkClass": "",
+            "newTab": false
+        },
+        {
+            "url": "https://www.shopify.com",
+            "text": "Shopping",
+            "linkId": "",
+            "linkClass": "",
+            "newTab": true
+        },
+        {
+            "url": "/contact.html",
+            "text": "Contact Us",
+            "linkId": "",
+            "linkClass": "",
+            "newTab": false
+        }
+    ]
+}
